@@ -11,7 +11,7 @@
         <h1 class="h1">that teaches Scratch and Python is</h1>
         <h1 class="h1">Minecraft Education edition</h1>
         <img src="https://cdn.mos.cms.futurecdn.net/mEgH3Mdp6uyBLixzxPfFQh.jpg" height="300px">
-            <h1 class="p"id="opus">This minecraft is special because it is the same minecraft bedrock edition, but it has the chemistry of the board and a lot of features.
+            <p class="p"id="opus">This minecraft is special because it is the same minecraft bedrock edition, but it has the chemistry of the board and a lot of features.
             There are even NPCs! It has a very special robot that understands Python and Scratch. 
             He can build houses, spawn mobs, walk to perform actions thanks to which you can create mini games without command blocks. 
             Friend, do not rush to create a server there, it can be created only through a VPN and you have to pay 5 dollars a month. 
@@ -24,7 +24,7 @@
             You will say why, because Microsoft noticed this and took away the Sing in button and made restrictions. 
             So I recommend never closing this minecraft. 
             Later I will make such an app for PC, it may not be available on phones, but it is a matter of time. 
-            This is exactly everything about Minecraft Education Edition.<img src="https://top-mmo.fr/wp-content/uploads/2022/09/5fe627dd-minecraft.jpg"height="250px"></h1>
+            This is exactly everything about Minecraft Education Edition.</p>
         </body>
         <footer class="footerd" id="footer">
             <p style="color: white;">Thanks for viziting!</p>
